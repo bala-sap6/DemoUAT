@@ -1,3 +1,4 @@
+//Added a comment
 @RestResource(urlMapping='/GetService/*')  
 global with sharing class getservice1
 {  
